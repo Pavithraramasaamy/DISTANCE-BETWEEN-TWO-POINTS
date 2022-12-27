@@ -36,4 +36,5 @@ print("{:.2f}".format(distance))
 ### OUTPUT:
 ![](./distance.png)
 
-### RESULT:
+### RESULT: 
+Thus the distance between two points is successfully executed
